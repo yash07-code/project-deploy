@@ -19,4 +19,5 @@ goto finish
 echo Error starting Apache
 
 :finish
-exit
+exit 
+
